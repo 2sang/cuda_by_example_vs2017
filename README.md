@@ -1,4 +1,4 @@
-# CUDA by Example book source code (CUDA 9.2, Visual Studio 2017 Version)
+# CUDA by Example (CUDA 9.2, Visual Studio 2017 Version)
 CUDA by Example, written by two senior members of the CUDA software platform team, shows programmers how to employ this new technology.  The authors introduce each area of CUDA development through working examples. 
 
 #Table of Contents
