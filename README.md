@@ -1,4 +1,4 @@
-Slides at https://www.slideshare.net/EdisonLee1/cuda-moducon2018
+See slides at https://www.slideshare.net/EdisonLee1/cuda-moducon2018
 
 # CUDA by Example (CUDA 9.2, Visual Studio 2017)
 CUDA by Example, written by two senior members of the CUDA software platform team, shows programmers how to employ this new technology.  The authors introduce each area of CUDA development through working examples. 
